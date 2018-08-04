@@ -1,0 +1,4 @@
+applications:
+- name: ts-impact-immunisation-api
+  memory: 64M
+  random-route: true
